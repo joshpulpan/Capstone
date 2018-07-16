@@ -1,0 +1,7 @@
+# Netbeans
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
